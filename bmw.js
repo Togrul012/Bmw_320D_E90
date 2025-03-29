@@ -1,1 +1,1 @@
-alert('Salam Aleykum Saytıma Xoş Gəlmisiniz.')
+alert('Welcome To My Website')
